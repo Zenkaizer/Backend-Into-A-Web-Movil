@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "NuevoUsuario",
+    "code": "Abc12DeF34GhI56JkL",
+    "faculty": "NuevoFacultad"
+  },
+  {
+    "id": 2,
+    "name": "Marcelo",
+    "code": "XyZ78MnO90PqRsTuV",
+    "faculty": "Sistemas"
+  },
+  {
+    "id": 3,
+    "name": "Jorge",
+    "code": "12AbCdEfG34HiJkLmN",
+    "faculty": "Prueba"
+  },
+  {
+    "id": 4,
+    "name": "David",
+    "code": "OpQ56RsT78UvWxYz12",
+    "faculty": "Nose"
+  },
+  {
+    "id": 5,
+    "name": "Jose",
+    "code": "34AbCdEfG56HiJkLmN",
+    "faculty": "TerminelaProfe"
+  },
+  {
+    "id": 6,
+    "name": "Ana",
+    "code": "67OpQrSt89UvWxYz12",
+    "faculty": "Matemáticas"
+  },
+  {
+    "id": 7,
+    "name": "Luis",
+    "code": "90AbCdEfG12HiJkLmN",
+    "faculty": "Ciencias Sociales"
+  },
+  {
+    "id": 8,
+    "name": "Laura",
+    "code": "34OpQrSt56UvWxYz78",
+    "faculty": "Artes"
+  },
+  {
+    "id": 9,
+    "name": "Carlos",
+    "code": "56AbCdEfG78HiJkLmN",
+    "faculty": "Historia"
+  },
+  {
+    "id": 10,
+    "name": "Isabel",
+    "code": "90OpQrSt12UvWxYz34",
+    "faculty": "Idiomas"
+  }
+]

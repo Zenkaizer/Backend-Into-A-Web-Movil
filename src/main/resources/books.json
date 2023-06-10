@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "book": "El señor de los anillos",
+    "code": "Abc12DeF34GhI56JkL",
+    "description": "Épica aventura en la Tierra Media."
+  },
+  {
+    "id": 2,
+    "book": "1984",
+    "code": "XyZ78MnO90PqRsTuV",
+    "description": "Distopía donde el Gran Hermano todo lo ve."
+  },
+  {
+    "id": 3,
+    "book": "Orgullo y prejuicio",
+    "code": "12AbCdEfG34HiJkLmN",
+    "description": "Amor y desafíos en la alta sociedad."
+  },
+  {
+    "id": 4,
+    "book": "Cien años de soledad",
+    "code": "OpQ56RsT78UvWxYz12",
+    "description": "Saga familiar en un mundo mágico."
+  },
+  {
+    "id": 5,
+    "book": "Don Quijote de la Mancha",
+    "code": "34AbCdEfG56HiJkLmN",
+    "description": "Locuras y hazañas de un caballero andante."
+  },
+  {
+    "id": 6,
+    "book": "Matar a un ruiseñor",
+    "code": "67OpQrSt89UvWxYz12",
+    "description": "Inocencia y justicia racial en el sur de Estados Unidos."
+  },
+  {
+    "id": 7,
+    "book": "Crimen y castigo",
+    "code": "90AbCdEfG12HiJkLmN",
+    "description": "La lucha interna de un estudiante y asesino."
+  },
+  {
+    "id": 8,
+    "book": "Harry Potter y la piedra filosofal",
+    "code": "34OpQrSt56UvWxYz78",
+    "description": "El inicio de la mágica aventura de Harry Potter."
+  },
+  {
+    "id": 9,
+    "book": "Las aventuras de Tom Sawyer",
+    "code": "56AbCdEfG78HiJkLmN",
+    "description": "Travesuras y amistad en la vida de Tom Sawyer."
+  },
+  {
+    "id": 10,
+    "book": "El gran Gatsby",
+    "code": "90OpQrSt12UvWxYz34",
+    "description": "El sueño americano y los excesos de los ricos."
+  }
+]

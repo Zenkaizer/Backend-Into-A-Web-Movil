@@ -5,17 +5,18 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
-import java.util.ArrayList;
-import java.util.List;
-
 @NoArgsConstructor
 @AllArgsConstructor
 @Getter
 @Setter
-public class BookDto {
+public class ReservePersonDto {
 
+    private Integer id;
     private String name;
-    private String description;
-    private List<ReservePersonDto> reserves = new ArrayList<>();
+    private String faculty;
 
+    @Override
+    public String toString() {
+        return name;
+    }
 }
