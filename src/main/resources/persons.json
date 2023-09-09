@@ -1,62 +1,72 @@
 [
   {
     "id": 1,
-    "name": "NuevoUsuario",
-    "code": "Abc12DeF34GhI56JkL",
-    "faculty": "NuevoFacultad"
+    "rut": "17658963-2",
+    "firstName": "NuevoUsuario",
+    "lastName": "González",
+    "phone": "123456789"
   },
   {
     "id": 2,
-    "name": "Marcelo",
-    "code": "XyZ78MnO90PqRsTuV",
-    "faculty": "Sistemas"
+    "rut": "23456789-1",
+    "firstName": "Marcelo",
+    "lastName": "Martínez",
+    "phone": "123456789"
   },
   {
     "id": 3,
-    "name": "Jorge",
-    "code": "12AbCdEfG34HiJkLmN",
-    "faculty": "Prueba"
+    "rut": "12345678-7",
+    "firstName": "Jorge",
+    "lastName": "Pérez",
+    "phone": "123456789"
   },
   {
     "id": 4,
-    "name": "David",
-    "code": "OpQ56RsT78UvWxYz12",
-    "faculty": "Nose"
+    "rut": "25678901-0",
+    "firstName": "David",
+    "lastName": "Rodríguez",
+    "phone": "123456789"
   },
   {
     "id": 5,
-    "name": "Jose",
-    "code": "34AbCdEfG56HiJkLmN",
-    "faculty": "TerminelaProfe"
+    "rut": "34567890-9",
+    "firstName": "Jose",
+    "lastName": "López",
+    "phone": "123456789"
   },
   {
     "id": 6,
-    "name": "Ana",
-    "code": "67OpQrSt89UvWxYz12",
-    "faculty": "Matemáticas"
+    "rut": "67890123-1",
+    "firstName": "Ana",
+    "lastName": "Fernández",
+    "phone": "123456789"
   },
   {
     "id": 7,
-    "name": "Luis",
-    "code": "90AbCdEfG12HiJkLmN",
-    "faculty": "Ciencias Sociales"
+    "rut": "90123456-4",
+    "firstName": "Luis",
+    "lastName": "Gómez",
+    "phone": "123456789"
   },
   {
     "id": 8,
-    "name": "Laura",
-    "code": "34OpQrSt56UvWxYz78",
-    "faculty": "Artes"
+    "rut": "34567890-6",
+    "firstName": "Laura",
+    "lastName": "Sánchez",
+    "phone": "123456789"
   },
   {
     "id": 9,
-    "name": "Carlos",
-    "code": "56AbCdEfG78HiJkLmN",
-    "faculty": "Historia"
+    "rut": "56789012-8",
+    "firstName": "Carlos",
+    "lastName": "Torres",
+    "phone": "123456789"
   },
   {
     "id": 10,
-    "name": "Isabel",
-    "code": "90OpQrSt12UvWxYz34",
-    "faculty": "Idiomas"
+    "rut": "90123456-3",
+    "firstName": "Isabel",
+    "lastName": "Díaz",
+    "phone": "123456789"
   }
 ]
